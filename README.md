@@ -22,7 +22,7 @@ npm run lint
 
 ## 备注
 ```
-第一次使用，正在学习中...
+更新
 ```
 
 ### Customize configuration
